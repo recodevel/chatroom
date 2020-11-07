@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recodevel.github.io/chatroom/static/css/main.9c365f85.chunk.css",
+    "main.js": "/recodevel.github.io/chatroom/static/js/main.566047ae.chunk.js",
+    "runtime-main.js": "/recodevel.github.io/chatroom/static/js/runtime-main.07944ebc.js",
+    "static/js/2.5f5281b1.chunk.js": "/recodevel.github.io/chatroom/static/js/2.5f5281b1.chunk.js",
+    "index.html": "/recodevel.github.io/chatroom/index.html",
+    "static/js/2.5f5281b1.chunk.js.LICENSE.txt": "/recodevel.github.io/chatroom/static/js/2.5f5281b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07944ebc.js",
+    "static/js/2.5f5281b1.chunk.js",
+    "static/css/main.9c365f85.chunk.css",
+    "static/js/main.566047ae.chunk.js"
+  ]
+}
