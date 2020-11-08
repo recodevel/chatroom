@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chatroom/static/css/main.9c365f85.chunk.css",
-    "main.js": "/chatroom/static/js/main.b974acb9.chunk.js",
+    "main.js": "/chatroom/static/js/main.edc5bbaf.chunk.js",
     "runtime-main.js": "/chatroom/static/js/runtime-main.c91097e9.js",
     "static/js/2.4e33c57e.chunk.js": "/chatroom/static/js/2.4e33c57e.chunk.js",
     "index.html": "/chatroom/index.html",
@@ -11,6 +11,6 @@
     "static/js/runtime-main.c91097e9.js",
     "static/js/2.4e33c57e.chunk.js",
     "static/css/main.9c365f85.chunk.css",
-    "static/js/main.b974acb9.chunk.js"
+    "static/js/main.edc5bbaf.chunk.js"
   ]
 }
